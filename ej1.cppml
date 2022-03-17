@@ -1,0 +1,16 @@
+//Suma de dos vectores 
+LYBRARY% stdio.h iostream%
+NAMESPACE% std %
+int main(){
+	
+%VECTOR DECIMAL N: b 3%
+%VECTOR DECIMAL N: a 3%
+%VECTOR DECIMAL N: c 3%
+%LOOP FOR C: 0; <=3; +1 B: printf("Introduce datos en el vector"); cin >> a[i];%
+%LOOP FOR C: 0; <=3; +1 B: printf("Introduce datos en el vector"); cin >> b[i];%
+%LOOP FOR C: 0; <=3; +1 B: c[i]=b[i]+a[i];%
+%LOOP FOR C: 0; <=3; +1 B: cout << i << " --> " << c[i] << endl;%
+
+	return 0;
+
+}

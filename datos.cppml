@@ -1,0 +1,15 @@
+LYBRARY% stdio.h math.h %
+
+int main(){
+ 
+%VECTOR NATURAL N: a 2 3%
+%VECTOR DECIMAL N: b 3%
+%VECTOR NATURAL N: i%i=0;
+%LOOP FOR C: 3; <=7; +2 B: b[i]=3; printf("Hello"); %
+%LOOP WHILE C: i<=7 B: b[i]=3; printf("Hello"); i++;%
+%IF i<=7 B: b[i]=3; printf("Hello"); i++;% 
+%ELSE printf("adios");
+
+	return 0;
+
+}
