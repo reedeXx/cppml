@@ -25,4 +25,4 @@ Sentencias condicionales:
 	%IF condicion B:  contenido % 
 	%ELSE  contenido ;
 
-Práctica realizada por Miguel Prados Donaire. 
+
