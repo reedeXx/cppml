@@ -1,5 +1,5 @@
 
-Práctica 2 : CPPML 
+CPPML 
 
 cppml es un lenguaje de marcado que permite generar codigo de c++ para declarar librerias , namespace , definir matrices, bucles y estructuras condicionales sencillas empleando la siguiente sintaxis.
 
